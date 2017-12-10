@@ -1,3 +1,5 @@
+package com.java.frequencycalculation;
+
 import java.util.HashMap;
 import java.util.Map;
 
