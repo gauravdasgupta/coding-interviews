@@ -9,6 +9,7 @@ public class SolveDefaultAmbiguity implements InterfaceA,InterfaceB {
         InterfaceA.super.defaultMethod();
     }
     public static void main(String args[]){
+
         SolveDefaultAmbiguity solveDefaultAmbiguity = new SolveDefaultAmbiguity();
         solveDefaultAmbiguity.defaultMethod();
     }
